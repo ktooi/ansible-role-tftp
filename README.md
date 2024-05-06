@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/bertvv/ansible-role-tftp.svg?branch=master)](https://travis-ci.org/bertvv/ansible-role-tftp)
 
-An Ansible role for installing a TFTP (Trivial File Transfer Protocol) server on RHEL/CentOS 7. Specifically, the responsibilities of this role are to:
+An Ansible role for installing a TFTP (Trivial File Transfer Protocol) server on RHEL (and clones) 7/8/9. Specifically, the responsibilities of this role are to:
 
 - install the necessary packages
 - manage the configuration
